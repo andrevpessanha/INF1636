@@ -1,0 +1,5 @@
+package tools;
+
+public enum PositionType {
+	INICIO, PRISAO, IRPRISAO, PARADALIVRE, CARD, TERRITORIO, EMPRESA, ESPECIAL;
+}
